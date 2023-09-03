@@ -1,4 +1,4 @@
-# Writing a Systematic Literature Review Paper: Mutation Testing on Improved Entropy-based Malicious Code Detection Algorithm
+# Writing a Systematic Literature Review Paper: Mutation Testing on Entropy-based Malicious Code Detection Algorithm
 
 The realm of cybersecurity is an ever-evolving landscape, with the constant emergence of new threats and vulnerabilities. In response to these challenges, researchers have been diligently working on improving the efficacy of malicious code detection algorithms. One approach that has gained traction is the integration of mutation testing with entropy-based techniques. In this systematic literature review (SLR) paper, we will delve into the intricacies of this subject, exploring the existing body of knowledge and providing comprehensive guidelines for researchers embarking on a similar journey.
 
@@ -15,6 +15,27 @@ Crafting precise research questions is pivotal to guide our literature search an
 1. How has mutation testing been employed to enhance the performance of malicious code detection algorithms?
 2. What are the key findings and trends in research related to the integration of entropy-based algorithms in the context of malicious code detection?
 3. Are there common methodologies or challenges identified in the literature that researchers should be aware of when exploring this intersection?
+
+### Sample Research Questions
+
+1. **How does mutation testing enhance the detection capabilities of entropy-based algorithms?**
+   - This question delves into the core of our investigation, examining the synergy between mutation testing and entropy-based algorithms.
+
+2. **What are the key challenges in implementing mutation testing in the context of malicious code detection?**
+   - Understanding the obstacles is vital for developing effective testing strategies.
+
+3. **Can mutation testing effectively identify new variants of malware in real-time scenarios?**
+   - This question explores the practical applicability of mutation testing.
+
+4. **What impact does mutation testing have on reducing false positives in malicious code detection?**
+   - False positives can be a significant challenge in cybersecurity, and this question addresses their mitigation.
+
+5. **How do different mutation operators influence the outcomes of testing in entropy-based algorithms?**
+   - Examining the role of mutation operators adds depth to our research.
+
+6. **Are there optimal mutation testing strategies for specific types of malicious code?**
+   - Tailoring mutation testing to different code types may be essential for accuracy.
+
 
 ## Conducting a Comprehensive Literature Search
 
